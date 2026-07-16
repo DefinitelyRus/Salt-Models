@@ -27,3 +27,5 @@ repo
 
 # custom
 /.assets_imported
+/.vscode
+/.tools
