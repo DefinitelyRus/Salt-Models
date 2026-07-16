@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "salt_models:block/giant_forge" },
+        "facing=south": { "model": "salt_models:block/giant_forge", "y": 180 },
+        "facing=west": { "model": "salt_models:block/giant_forge", "y": 270 },
+        "facing=east": { "model": "salt_models:block/giant_forge", "y": 90 }
+    }
+}
