@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "salt_models:giant_forge",
+    "salt_models:jungle_forge",
+    "salt_models:frost_forge",
+    "salt_models:golden_forge"
+  ]
+}
